@@ -1,6 +1,8 @@
 # online-store-data-analysis
 Welcome to the Online Store Data Analysis in Excel repository! This repository contains an Excel file that showcases data analysis techniques applied to an online store dataset. The dataset includes various sales and customer-related information, which has been transformed and analyzed using Excel's powerful features, including pivot tables, charts, and graphs.
 
+Excel Dashboard: https://1drv.ms/x/s!AnhUBj1qd0-KlTm3Fz8HAXRS0euE
+
 Within this repository, you will find an Excel file that demonstrates the following:
 
 Data Transformation: The dataset has been carefully structured and organized to facilitate analysis. This includes data cleaning, formatting, and organizing columns and rows for effective data manipulation.
